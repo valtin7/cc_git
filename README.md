@@ -2,3 +2,5 @@
 
 ## introduction
 追加しています
+## intro
+こちらが優先
